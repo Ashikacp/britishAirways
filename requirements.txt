@@ -1,0 +1,11 @@
+ipykernel
+pandas
+scikit-learn
+matplotlib
+seaborn
+bs4
+requests
+nltk
+wordcloud
+imblearn
+xgboost
